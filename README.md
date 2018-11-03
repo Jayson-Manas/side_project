@@ -1,4 +1,4 @@
-# side_project live link: https://jayson-manas.github.io/side_project/index.html
+# side_project 
 New website for a vape store(demo)
 
 Requirement set forth by owner: parallax demo
@@ -20,5 +20,5 @@ Resources used: w3schools
                                     Garth
                                     Devan
 
-
+live link: https://jayson-manas.github.io/side_project/index.html
                             
